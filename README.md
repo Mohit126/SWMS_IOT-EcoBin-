@@ -38,6 +38,7 @@ The connection between the hardware components of the proposed system. The ESP32
 		
 
 **B.System Flow**
+
 ![image](https://github.com/Mohit126/SMWMS_IOT-EcoBin-/assets/81141220/6419a94d-bd14-4c7a-89cf-9bbd516ea9cc)
 
 **Fig 3. Activity Diagram for WMS**

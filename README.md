@@ -24,6 +24,7 @@ The system is developed for smart and urban cities. The IoT structure of the was
 
 
 ![image](https://github.com/Mohit126/SMWMS_IOT-EcoBin-/assets/81141220/dac24ee8-1c7a-40d3-93ee-05cc34378ec9)
+
 **Fig 1. System Architecture for WMS**
 
 ### **A.Proposed System**

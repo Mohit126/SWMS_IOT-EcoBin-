@@ -33,11 +33,13 @@ The connection between the hardware components of the proposed system. The ESP32
 
 
 ![image](https://github.com/Mohit126/SMWMS_IOT-EcoBin-/assets/81141220/9d932298-bdd7-4049-b8b7-2816acef05e7)
+
 **Fig 2. Proposed System for WMS**
 		
 
 **B.System Flow**
 ![image](https://github.com/Mohit126/SMWMS_IOT-EcoBin-/assets/81141220/6419a94d-bd14-4c7a-89cf-9bbd516ea9cc)
+
 **Fig 3. Activity Diagram for WMS**
 
 
@@ -54,16 +56,19 @@ Step 9: - Update Data in Firebase Server: After waste collection, the IoT device
 Step 10: - Continuous Monitoring and Maintenance: The system is continuously monitored for any issues or anomalies. Regular maintenance and updates are performed to ensure the system operates smoothly and efficiently.
 
 ![image](https://github.com/Mohit126/SMWMS_IOT-EcoBin-/assets/81141220/e6aa6ef4-9d50-4f7b-9b2f-4e9d456766e6)
+
 **Fig 4. Circuit Diagram for WMS**
 
 ### **RESULTS**
 ![image](https://github.com/Mohit126/SMWMS_IOT-EcoBin-/assets/81141220/4c142ad0-43a1-4e0d-a745-a86257dbc545)
+
 **Fig 5. Hardware Prototype for WMS**
 
 The prototype has been created by connecting all the components i.e. the ESP32, Ultrasonic Sensor, GPS together. The ESP32 microcontroller efficiently manages the communication between the ultrasonic sensor and GPS module. The ultrasonic sensor accurately measured the waste levels in the Dustbin, providing valuable data for waste management. The GPS module contributed to location tracking, allowing for a comprehensive waste management system that can monitor waste levels at specific geographical locations.
 The Sign-up Screen serves as the initial interface that users encounter when they open the waste management application. Elements describe the design elements incorporated, such as the sign-up Screen is used login in existing user to the application by validating the credentials.
 
 ![image](https://github.com/Mohit126/SMWMS_IOT-EcoBin-/assets/81141220/c1cfb6a6-e8bb-47bf-8399-275466a6be39)
+
 **Fig 6. Sign-Up Screen for WMS**
 
 The Registration Screen enables new users to create an account for accessing the waste management system. The design elements present, such as registration fields (e.g., name, email, password), validation checks, and submission controls. The about page display user I'd and name in the text filed with a sign out button at the bottom for signing out the user.
@@ -71,15 +76,19 @@ The about page display user I'd and name in the text filed with a sign out butto
 The home page contains list bin bin card title each repenting a bin with unique I'd according to different bin placed in the locality.
 
 ![image](https://github.com/Mohit126/SMWMS_IOT-EcoBin-/assets/81141220/e93616e4-76db-4488-9d10-b213ba0a2974)
+
 **Fig 7. Registration Screen for WMS**
 
 ![image](https://github.com/Mohit126/SMWMS_IOT-EcoBin-/assets/81141220/91b792b0-f374-4e21-a42b-f3e2ab9f6d1f)
+
 **Fig 8. About Screen for WSM**
 
 ![image](https://github.com/Mohit126/SMWMS_IOT-EcoBin-/assets/81141220/2872431c-c8f8-4fbf-b39c-7765a83d43ff)
+
 **Fig 9. Home Screen for WSM**
 
 ![image](https://github.com/Mohit126/SMWMS_IOT-EcoBin-/assets/81141220/206f1dd2-a983-4f66-95d4-a2668aa3d3f6)
+
 **Fig 10. Single Bin Screen for WSM**
 
 The single bin page detail view of list tile with bin I'd 101 with display battery status and fill level of the bin to the user real time and a map button to navigate to the map screen
@@ -87,9 +96,11 @@ The map screen contains the overall location of the bin marked with a marker to 
 After clicking the navigation buttons the user in redirect to the map application which help the user to find the shorted path /route form the current user location till the bin by showing life traffic status to the driver
 
 ![image](https://github.com/Mohit126/SMWMS_IOT-EcoBin-/assets/81141220/e56a11dd-1ada-493b-a49a-3fef6237c806)
+
 **Fig 11. Map Screen for WSM**
 
 ![image](https://github.com/Mohit126/SMWMS_IOT-EcoBin-/assets/81141220/cbe5851d-9374-499c-8711-c2d9844bb32e)
+
 **Fig 12. Navigation Map Screen for WSM**
 
 ### **RTDB for WSM**

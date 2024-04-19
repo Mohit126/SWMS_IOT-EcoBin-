@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://ecobin-ace0a-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">38114452446</string>
+    <string name="google_api_key" translatable="false">AIzaSyDP9I5EY9qRSW54GhuQj1SFJvdnXencfSc</string>
+    <string name="google_app_id" translatable="false">1:38114452446:android:c2c948cd146c09dc9fb34f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDP9I5EY9qRSW54GhuQj1SFJvdnXencfSc</string>
+    <string name="google_storage_bucket" translatable="false">ecobin-ace0a.appspot.com</string>
+    <string name="project_id" translatable="false">ecobin-ace0a</string>
+</resources>

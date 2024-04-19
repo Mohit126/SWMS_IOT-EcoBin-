@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "38114452446",
+    "firebase_url": "https://ecobin-ace0a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ecobin-ace0a",
+    "storage_bucket": "ecobin-ace0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38114452446:android:2790012f0dd6790e9fb34f",
+        "android_client_info": {
+          "package_name": "com.ecobin_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP9I5EY9qRSW54GhuQj1SFJvdnXencfSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38114452446:android:c2c948cd146c09dc9fb34f",
+        "android_client_info": {
+          "package_name": "com.example.sample4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP9I5EY9qRSW54GhuQj1SFJvdnXencfSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

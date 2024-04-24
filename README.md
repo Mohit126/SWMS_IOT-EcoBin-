@@ -1,5 +1,4 @@
 # sample4
-https://drive.google.com/file/d/1Z6-_Nn8Q_mOWKjzv4p-Tr3tmLJEm55u0/view?usp=sharing
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
